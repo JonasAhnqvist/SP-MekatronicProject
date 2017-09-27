@@ -12,7 +12,15 @@ Arbetspass 1:
 	
 	
 	
-Arbetspass 2:
+Arbetspass 2 (7/9):
+Emil & Jonas:
+	Byggde en model av processen i simulink med alla intruktioner som blev beskrivna i manualen.
+	Började med stegsvarvid en arbetspunkt av 45. Därefter så gjorde vi stegsvar på 45->47, 47->52, 52->62 men de två sista var fel
+	sätt att mäta stegsvar på så vi fick ta utterligare stegsvar 45->50 och 45->55.
+	Därefter räknade vi fram en regulator utifrån de stegsvaren vi fick. Detta var förtidigt då vi inte hade testat med ytterligare
+	metoder om stegsvaren var korrekta. Detta testade vi också med simulering och såg att vi fick ett självsvängande system med ett
+	K värde på 10,5.
+Johan & Olof:
 	Betat av fram till 4c
 	Råkade sätta 78L05 åt fel håll först, då gav både ut- och in-signal 15V
 	Ritat kopplingsschema för PIC, MAX232, 78L05 samt MSCL-krets och kristall.
